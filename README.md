@@ -1,2 +1,2 @@
 # GeradordeSenhas
-Projeto de um gerador de senhas em Python realizado no curso de Segurança da informação com Python
+Projeto de um gerador de senhas em Python realizado no curso de Segurança da informação com Python da Digital Innovation One
